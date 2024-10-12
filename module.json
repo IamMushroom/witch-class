@@ -1,0 +1,30 @@
+{
+  "id": "witch-class",
+  "title": "Witch Class from VSS",
+  "description": "A simple module for Silkip campaign",
+  "authors": [
+    {
+      "name": "ImMushroom"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": [
+    "scripts/witchcraft.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
+    }
+  ]
+}
