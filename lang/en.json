@@ -3,7 +3,7 @@
         "label": "Witchcraft",
         "subtypes": {
             "curse": "Witch's Curse",
-            "hex": "Hex",
+            "hex": "Хекс",
             "grandhex": "Grand Hex"
         }
     }

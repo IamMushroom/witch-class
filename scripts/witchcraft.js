@@ -3,7 +3,7 @@ const curse = game.i18n.localize("witchcraft.subtypes.curse")
 const hex = game.i18n.localize("witchcraft.subtypes.hex")
 const grandhex = game.i18n.localize("witchcraft.subtypes.grandhex")
 
-Hooks.once("ready", () => {
+Hooks.on("ready", () => {
     CONFIG.DND5E.featureTypes.witchcraft = {
         label: label,
         subtypes: {
