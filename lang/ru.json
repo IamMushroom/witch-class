@@ -1,6 +1,10 @@
 {
-    "CONFIG.DND5E.featureTypes.witchcraft.label": "Ведьмовство",
-    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.curse": "Проклятье ведьмы",
-    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.hex": "Хекс",
-    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.grandhex": "Великий Хекс"
+    "witchcraft": {
+        "label": "Ведьмовство",
+        "subtypes": {
+            "curse": "Проклятье ведьмы",
+            "hex": "Хекс",
+            "grandhex": "Великий Хекс"
+        }
+    }
 }
