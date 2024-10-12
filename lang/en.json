@@ -1,6 +1,6 @@
 {
-    "DND5E.featureTypes.witchcraft.label": "Witchcraft",
-    "DND5E.featureTypes.witchcraft.subtypes.curse": "Witch's Curse",
-    "DND5E.featureTypes.witchcraft.subtypes.hex": "Hex",
-    "DND5E.featureTypes.witchcraft.subtypes.grandhex": "Grand Hex"
+    "CONFIG.DND5E.featureTypes.witchcraft.label": "Witchcraft",
+    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.curse": "Witch's Curse",
+    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.hex": "Hex",
+    "CONFIG.DND5E.featureTypes.witchcraft.subtypes.grandhex": "Grand Hex"
 }
