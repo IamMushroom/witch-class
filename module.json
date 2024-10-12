@@ -2,12 +2,16 @@
   "id": "witch-class",
   "title": "Witch Class from VSS",
   "description": "A simple module for Silkip campaign",
+  "system": ["dnd5e"],
   "authors": [
     {
       "name": "ImMushroom"
     }
   ],
-  "version": "0.0.1",
+  "version": "#{VERSION}#",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
